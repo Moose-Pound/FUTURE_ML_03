@@ -1,0 +1,5 @@
+Artifact,Rows,Purpose
+occupational_classifier.joblib,2481,Fitted all-data occupational LinearSVC classifier
+occupational_tfidf_vectorizer.joblib,2481,Fitted occupational classification TF-IDF vectorizer
+skills_dictionary.joblib,1133,Canonical skill phrases
+prepared_job_profiles.joblib,320,"Mapped, cleaned job profiles with extracted skills"

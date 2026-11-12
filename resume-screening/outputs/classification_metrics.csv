@@ -1,0 +1,2 @@
+Accuracy,Macro_Precision,Macro_Recall,Macro_F1,Weighted_F1,Best_C,Grouped_CV_Macro_F1,Train_Rows,Test_Rows,Near_Duplicate_Pairs,Train_Test_Group_Overlap
+0.7137096774193549,0.7096943140788982,0.6746066512942944,0.6700612569711463,0.700256487168359,5,0.6344951489033578,1985,496,12,0

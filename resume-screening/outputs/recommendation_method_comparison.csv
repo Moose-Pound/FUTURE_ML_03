@@ -1,0 +1,4 @@
+Method,Configuration,Workflow_Role,Used_For_Final_Ranking
+TF-IDF similarity plus normalized skill coverage,"50% TF-IDF, 50% skill coverage",Exploratory experiment,False
+Role relevance percentile plus skill relevance percentile,"70% role, 30% skill",Exploratory experiment,False
+Cosine similarity between binary skill vectors,Skill-vector cosine similarity,Official final ranking,True
